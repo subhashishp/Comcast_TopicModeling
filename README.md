@@ -26,7 +26,14 @@ Cluster 3 (C3): Are problems related to customer care behavior or service provid
 
 ![image](https://github.com/subhashishp/Comcast_TopicModeling/assets/69890203/0709ac03-e40d-4b72-a96f-cabf0b9b967d)
 
+Topic Model
+Most frequently discussed issues in each cluster
+
 ![image](https://github.com/subhashishp/Comcast_TopicModeling/assets/69890203/eb13d08f-9e65-49ec-8d6c-d9638e30648c)
 Similar topics containing clusters can be merged to form a bigger cluster.
 #### Overall 3 Clusters form.
 
+-----
+
+Show your support
+Give a ⭐️ if this project helped you!
