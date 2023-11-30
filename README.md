@@ -35,5 +35,5 @@ Similar topics containing clusters can be merged to form a bigger cluster.
 
 -----
 
-Show your support
+### Show your support
 Give a ⭐️ if this project helped you!
