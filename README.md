@@ -15,6 +15,10 @@ From Kaggle - https://www.kaggle.com/datasets/archaeocharlie/comcastcomplaints
 
 -----
 
+Used BERTopic, a topic modeling technique that leverages 🤗 transformers and c-TF-IDF to create dense clusters allowing for easily interpretable topics while keeping important words in the topic descriptions.
+
+Applied hierarchical clustering on the topics generated on the reviews by the BERT model to get an overall idea of the kind of problems on which customers are complaining.
+
 Cluster 1 (C1): These are problems related to outages, internet speed, and modem-related problems. 
 2066 Reviews - 46.54%
 
@@ -27,12 +31,18 @@ Cluster 3 (C3): Are problems related to customer care behavior or service provid
 ![image](https://github.com/subhashishp/Comcast_TopicModeling/assets/69890203/0709ac03-e40d-4b72-a96f-cabf0b9b967d)
 
 Topic Model
-Most frequently discussed issues in each cluster
+The most frequently discussed issues in each cluster
 
 ![image](https://github.com/subhashishp/Comcast_TopicModeling/assets/69890203/eb13d08f-9e65-49ec-8d6c-d9638e30648c)
 Similar topics containing clusters can be merged to form a bigger cluster.
 #### Overall 3 Clusters form.
 
+----
+
+### Challenges faced
+
+1. It was difficult to decide between the clustering model. Eventually dropped HDBSCAN (which is considered the best) as it was hard to control the number of clusters leading to poor results.
+2. Choosing the number of clusters for best results was a challenge.
 -----
 
 ### Show your support
