@@ -7,7 +7,7 @@ Comcast is an American global telecommunication company. The firm has been provi
 -----
 
 ### Objective:-
-A project is to make an Exploratory Data Analysis to find insight into feedback they receive. Comcast is an American global telecommunication company.
+A project to make an Exploratory Data Analysis to find insight into feedback they receive. Comcast is an American global telecommunication company.
 
 -----
 ### Dataset:-
