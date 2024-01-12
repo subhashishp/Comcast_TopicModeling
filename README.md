@@ -1,4 +1,4 @@
-# Comcast_TopicModeling
+# Comcast_TopicClustering
 
 ### About The Project
 Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month 
